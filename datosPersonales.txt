@@ -3,3 +3,8 @@ direccion: jose joaquin perez #8421
 
 nacionalidad: chilena
 comuna : pudahuel
+
+deportes: basketball, futbol, aamm
+edad: 37
+
+profesion : ingeniero de software
