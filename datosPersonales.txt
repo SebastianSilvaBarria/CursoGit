@@ -1,2 +1,5 @@
 nombre : sebastian silva
 direccion: jose joaquin perez #8421
+
+nacionalidad: chilena
+comuna : pudahuel
